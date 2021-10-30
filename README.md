@@ -1,4 +1,4 @@
-# <Building Facade Share>
+# Building Facade Share
 
 ## サイト概要
   
